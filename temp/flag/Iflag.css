@@ -1,0 +1,12 @@
+div {
+  height: 100px;
+  width: 400px;
+}
+
+div:first-of-type {
+  background: orange;
+}
+
+div:last-of-type {
+  background: green;
+}
